@@ -15,7 +15,7 @@ The project implements a client-server greenhouse monitoring and control system.
 
 ## Technologies
 
-`C` · `Python` · `POSIX Threads` · `TCP/IP` · `Sockets` · `Concurrency` · `Synchronization` · `Make`
+`C` · `Python` · `POSIX Threads` · `TCP/IP` · `Sockets` · `Concurrency` · `Synchronization` ·
 
 ## Repository structure
 
