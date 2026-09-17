@@ -6,12 +6,12 @@ The project implements a client-server greenhouse monitoring and control system.
 
 ## Highlights
 
--- Multi-threaded server in C using **POSIX Threads**
--- Synchronization with **mutexes**, **condition variables**, and atomic state
--- Periodic task execution
--- TCP socket communication
--- Python client interface
--- Separation between monitoring, control, communication, and user interaction
+- Multi-threaded server in C using **POSIX Threads**
+- Synchronization with **mutexes**, **condition variables**, and atomic state
+- Periodic task execution
+- TCP socket communication
+- Python client interface
+- Separation between monitoring, control, communication, and user interaction
 
 ## Technologies
 
